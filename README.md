@@ -22,7 +22,7 @@
 - [**파이썬**](https://www.notion.so/a0d42fcee4dc4e5392dd9a7f71cc4782)
 - [**리눅스와 하둡**](https://www.notion.so/513334f539d24577ad4f453af7ebfaf6)
 - [**딥러닝**](https://www.notion.so/11189c8bb0e380cdaca7cfe8ff044daf)
-- [**Tableau**](https://www.notion.so/Tableau-13189c8bb0e380f2b849cc6e058349df)
+- [**Tableau**](https://github.com/KyungJinWoo/Tableau)
 
 
 
