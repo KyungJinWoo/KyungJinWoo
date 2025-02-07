@@ -18,7 +18,7 @@
 
 ## 🌱 최근 공부한 기술
 
-- [**SQL, SQL 튜닝**](https://www.notion.so/SQL-14b89c8bb0e380a69115d96a64e21fe2)
+- **SQL, SQL 튜닝** [**SQL, SQL 튜닝**](https://www.notion.so/SQL-14b89c8bb0e380a69115d96a64e21fe2)
 - [**R**](https://www.notion.so/R-139b151ddc8c49eba54c74ff4ad71947)
 - [**파이썬**](https://www.notion.so/a0d42fcee4dc4e5392dd9a7f71cc4782)
 - [**리눅스와 하둡**](https://www.notion.so/513334f539d24577ad4f453af7ebfaf6)
