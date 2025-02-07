@@ -16,9 +16,16 @@
 
 ## 🌱 최근 공부한 기술
 
-- **머신러닝**: TensorFlow, Keras로 딥러닝 모델을 개발하고 있습니다.
-- **클라우드 컴퓨팅**: AWS에서 EC2, S3, Lambda 등을 활용한 프로젝트 진행 중.
-- **데브옵스**: CI/CD 파이프라인 구축, Docker와 Jenkins 활용 경험
+## 🌱 최근 공부한 기술
+
+- [**SQL, SQL 튜닝**](https://www.notion.so/SQL-14b89c8bb0e380a69115d96a64e21fe2)
+- [**R**](https://www.notion.so/R-139b151ddc8c49eba54c74ff4ad71947)
+- [**파이썬**](https://www.notion.so/a0d42fcee4dc4e5392dd9a7f71cc4782)
+- [**리눅스와 하둡**](https://www.notion.so/513334f539d24577ad4f453af7ebfaf6)
+- [**딥러닝**](https://www.notion.so/11189c8bb0e380cdaca7cfe8ff044daf)
+- [**Tableau**](https://www.notion.so/Tableau-13189c8bb0e380f2b849cc6e058349df)
+
+
 
 ## 📝 프로젝트
 
