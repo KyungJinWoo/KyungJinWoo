@@ -76,7 +76,7 @@
 
 ## 📫 연락 방법
 
-- 이메일: kyungjinwoo@example.com
+- 이메일: k_jinoo98@naver.com
 - LinkedIn: [linkedin.com/in/kyungjinwoo](링크)
 
 ## ⚡ 재미있는 사실
