@@ -6,7 +6,7 @@
 
 - **Languages**: SQL, R, Python
 - **Database**: OracleSQL, DBever, MySQL, MongoDB
-  
+
 
 ## 🔭 현재 작업 중
 
