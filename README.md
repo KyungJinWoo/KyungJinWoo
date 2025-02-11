@@ -4,10 +4,9 @@
 
 ## 📌 기술 스택
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database**: MySQL, MongoDB
-- **Tools & Technologies**: Git, Docker, AWS, Jenkins
+- **Languages**: SQL, R, Python
+- **Database**: OracleSQL, MySQL, MongoDB
+  
 
 ## 🔭 현재 작업 중
 
