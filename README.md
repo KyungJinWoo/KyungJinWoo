@@ -5,7 +5,7 @@
 ## 📌 기술 스택
 
 - **Languages**: SQL, R, Python
-- **Database**: OracleSQL, MySQL, MongoDB
+- **Database**: OracleSQL, DBever, MySQL, MongoDB
   
 
 ## 🔭 현재 작업 중
