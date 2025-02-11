@@ -38,7 +38,9 @@
 - RESTful API 설계 및 구현
 
 ### 2. [퇴사자 예측 신경망 모델]
-[![깃허브 썸네일(퇴사 예측).png](https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png)](https://www.notion.so/16089c8bb0e38143829df0b80c7f5720)
+<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+</a>
 
 ### 3. [헬스 자세 보조 딥러닝 모델](링크)
 **설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
