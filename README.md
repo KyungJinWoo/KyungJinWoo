@@ -4,7 +4,7 @@
 
 ## 📌 기술 스택
 
-- **Languages**: SQL, R, Python
+- **Tool**: SQL, R, Python, Tableau
 - **Database**: OracleSQL, DBever, MySQL, MongoDB
 
 
