@@ -37,12 +37,12 @@
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
 
-**설명**: 퇴사자 예측 신경망 모델을 만든 프로젝트입니다.
+퇴사자 예측 신경망 모델을 만든 프로젝트입니다.
 
 **활용 데이터** : Kaggle의 IBM 데이터
 
-**성과 지표**
-<\n>훈련 정확도 : 99.49 % 
+**성과 지표**  
+훈련 정확도 : 99.49 %  
 테스트 정확도 : 98.64 %
 
 **사용한 기술**: Python, TensorFlow, Numpy, Shap
