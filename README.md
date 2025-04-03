@@ -99,35 +99,37 @@
   <summary>이커머스 고객 세분화 분석 프로젝트</summary>  
   
   **활용 데이터**  
-  **<데이터셋>**  
-  - CUSTOMER_INFO : 고객 정보  
-  - ONLINESALES_INFO : 온라인 거래 정보  
-  - DISCOUNT_INFO : 할인 쿠폰 정보  
-  - MARKETING_INFO : 마케팅 비용 정보  
-  - TAX_INFO : 세금 정보  
-  데이콘 이커머스 고객 세분화 데이터  
+  **데이터셋**  
+  - **CUSTOMER_INFO** : 고객 정보  
+  - **ONLINESALES_INFO** : 온라인 거래 정보  
+  - **DISCOUNT_INFO** : 할인 쿠폰 정보  
+  - **MARKETING_INFO** : 마케팅 비용 정보  
+  - **TAX_INFO** : 세금 정보  
+  (데이콘 이커머스 고객 세분화 데이터 활용)  
 
   **사용 기술**: ScikitLearn, matplotlib, Numpy, seaborn, K-Means, Birch, K-medoids, PCA  
 
-  **최종 마케팅 전략**  
-  **Cluster0~3**  
-  <Cluster0>  
-  - 품목 고급화 유도, 추가 구매 유도, 대량 구매시 할인
-    
-  <Cluster1>  
-  - 구매가 몰려있는 Apparel, Nest-USA, Office 위주로 소액 쿠폰 제공  
-  - 쿠폰 제공 시에는 동일 카테고리 내 중가 이상의 가격대 상품 추천  
-  - 번들 세일  
-  
-  <Cluster2>  
-  - 구매가 많은 금, 토, 일요일에 타임 세일,  
-  - 평균단가보다 높은 금액대 제품 한정 고할인율 쿠폰을 제공해 평균 단가를 높이는 전략  
-    
-  <Cluster3>  
-  - 고가 상품 수요에 부응하는 프리미엄관 운영  
+  ### 🛒 최종 마케팅 전략  
+  **Cluster 0~3**  
 
-  
+  - **Cluster 0**  
+    - 품목 고급화 유도, 추가 구매 유도, 대량 구매 시 할인  
+
+  - **Cluster 1**  
+    - 구매가 몰려있는 Apparel, Nest-USA, Office 위주로 소액 쿠폰 제공  
+    - 쿠폰 제공 시, 동일 카테고리 내 중가 이상의 가격대 상품 추천  
+    - 번들 세일 적용  
+
+  - **Cluster 2**  
+    - 구매가 많은 금, 토, 일요일에 타임 세일 적용  
+    - 평균 단가보다 높은 금액대 제품 한정 고할인율 쿠폰 제공  
+    - 평균 단가 상승을 유도하는 전략  
+
+  - **Cluster 3**  
+    - 고가 상품 수요에 부응하는 프리미엄관 운영  
+
 </details>
+
 
 ### 5. [데이콘 대회](링크)
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
