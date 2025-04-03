@@ -8,11 +8,6 @@
 - **Database**: OracleSQL, DBever, MySQL, MongoDB
 
 
-## 🔭 현재 작업 중
-
-- **AI 프로젝트**: Python을 사용한 자연어 처리 프로젝트를 진행 중입니다.
-- **웹 애플리케이션 개발**: React와 Node.js를 활용해 풀스택 웹 애플리케이션을 개발하고 있습니다.
-
 
 ## 🌱 최근 공부한 기술
 
