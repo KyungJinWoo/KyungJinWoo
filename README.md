@@ -110,7 +110,7 @@
   **사용 기술**: ScikitLearn, matplotlib, Numpy, seaborn, K-Means, Birch, K-medoids, PCA  
 
   **최종 마케팅 전략**  
-  **Cluster0~3**  
+  Cluster0~3  
   <Cluster0>  
   - 품목 고급화 유도, 추가 구매 유도, 대량 구매시 할인  
   <Cluster1>  
