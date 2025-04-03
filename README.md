@@ -25,7 +25,7 @@
 
 ### 1. [세종시 빅데이터 공모전]
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
-  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>
 </a>
 
 <details>
@@ -75,7 +75,7 @@
 
 ### 3. [헬스 자세 보조 딥러닝 모델]
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
-  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%ED%99%88%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%20%EC%9E%90%EC%84%B8%20%ED%8F%89%EA%B0%80%20%EB%AA%A8%EB%8D%B8.png" width="300"/>
 </a>
 
 <details>
@@ -92,7 +92,7 @@
 
 ### 4. [마케팅 프로젝트]
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
-  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>
 </a>
 
 <details>
@@ -150,7 +150,7 @@
 
 ### 5. [데이콘 대회]
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
-  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B2%BD%EB%A1%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>
 </a>
 
 <details>
