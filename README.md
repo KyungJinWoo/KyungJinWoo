@@ -23,7 +23,7 @@
 ## 📝 프로젝트
 ( 이미지 클릭시 발표 자료를 열람할 수 있는 노션으로 이동합니다. )
 
-### 1. [세종시 빅데이터 공모전](링크)
+### 1. [세종시 빅데이터 공모전]
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
@@ -73,7 +73,7 @@
 </details>
 
 
-### 3. [헬스 자세 보조 딥러닝 모델](링크)
+### 3. [헬스 자세 보조 딥러닝 모델]
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
