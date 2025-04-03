@@ -21,17 +21,34 @@
 
 
 ## 📝 프로젝트
-( 이미지 클릭시 발표 자료 다운로드 )
+( 이미지 클릭시 발표 자료를 열람할 수 있는 노션으로 이동합니다. )
 
-### 1. [세종시 공모전](링크)
-**설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
-**사용한 기술**: React, Node.js, MongoDB
-**주요 기능**:
-- 사용자 인증 시스템
-- 실시간 채팅 기능
-- RESTful API 설계 및 구현
+### 1. [세종시 빅데이터 공모전](링크)
+<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+</a>
+
+**설명**: 세종시의 출퇴근 인구,
+
+**사용한 기술**: Python, TensorFlow, Numpy, Shap
 
 ### 2. [퇴사자 예측 신경망 모델]
+<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+</a>
+
+**설명**: 퇴사자 예측 신경망 모델을 만든 프로젝트입니다.
+
+**활용 데이터** : Kaggle의 IBM 데이터
+
+**성과 지표**
+훈련 정확도 : 99.49 % 
+테스트 정확도 : 98.64 %
+
+**사용한 기술**: Python, TensorFlow, Numpy, Shap
+
+
+### 3. [헬스 자세 보조 딥러닝 모델](링크)
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
@@ -40,30 +57,23 @@
 
 **사용한 기술**: Python, TensorFlow, Numpy, Shap
 
-
-### 3. [헬스 자세 보조 딥러닝 모델](링크)
-**설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
-**사용한 기술**: React, Node.js, MongoDB
-**주요 기능**:
-- 사용자 인증 시스템
-- 실시간 채팅 기능
-- RESTful API 설계 및 구현
-
 ### 4. [마케팅 프로젝트](링크)
-**설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
-**사용한 기술**: Python, Flask, MySQL
-**주요 기능**:
-- 데이터 분석 및 시각화
-- CRUD 기능 구현
-- 데이터베이스 최적화
+<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+</a>
+
+**설명**: Kaggle의 IBM 데이터를 활용해 퇴사자 예측 신경망 모델을 만든 프로젝트입니다.
+
+**사용한 기술**: Python, TensorFlow, Numpy, Shap
 
 ### 5. [데이콘 대회](링크)
-**설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
-**사용한 기술**: Python, Flask, MySQL
-**주요 기능**:
-- 데이터 분석 및 시각화
-- CRUD 기능 구현
-- 데이터베이스 최적화
+<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
+</a>
+
+**설명**: Kaggle의 IBM 데이터를 활용해 퇴사자 예측 신경망 모델을 만든 프로젝트입니다.
+
+**사용한 기술**: Python, TensorFlow, Numpy, Shap
 
 ## 👯 함께 작업하고 싶은 분야
 
