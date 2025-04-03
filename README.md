@@ -21,7 +21,7 @@
 
 
 ## 📝 프로젝트
-( 이미지 클릭시 자료와 설명 노션으로 이동 )
+( 이미지 클릭시 발표 자료 다운로드 )
 
 ### 1. [세종시 공모전](링크)
 **설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
@@ -35,6 +35,9 @@
 <a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
+**설명**: Kaggle의 IBM 데이터를 활용해 퇴사자 예측 신경망 모델을 만든 것입니다.
+**사용한 기술**: Python, TensorFlow, Numpy, Shap
+
 
 ### 3. [헬스 자세 보조 딥러닝 모델](링크)
 **설명**: 이 프로젝트는 [프로젝트의 목적과 기능]을 포함하고 있습니다.
@@ -69,19 +72,8 @@
 ## 📫 연락 방법
 
 - 이메일: k_jinoo98@naver.com
-- LinkedIn: [linkedin.com/in/kyungjinwoo](링크)
+- 전화번호 : 010-8223-6746
 
-## ⚡ 재미있는 사실
-
-- 저는 새로운 기술을 배우는 것을 좋아하고, 주말마다 해커톤에 참여하는 것을 즐깁니다.
-- 커피를 마시면서 코딩하는 게 취미입니다.
-
-## 🔗 기타 링크
-
-- [GitHub](https://github.com/KyungJinWoo)
-- [LinkedIn](https://www.linkedin.com/in/kyungjinwoo)
-
----
 
 이 포트폴리오는 제가 만든 **프로젝트**와 **기술 스택**을 바탕으로 작성되었습니다. 언제든지 제게 연락주세요!
 
