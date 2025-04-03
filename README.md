@@ -44,10 +44,6 @@
   **<세종시 통학 인구>**
   - [초등학교, 중학교, 고등학교, 특수학교, 대학교] 위치, 학생수 데이터  
 
-
-  **결과**  
-  조치원읍, 나성동, 새롬동, 보람동, 어진동 일대가 최적 입지라고 판단되었습니다.
-
   **사용 기술**: Python, TensorFlow, Numpy, Shap  
 
 </details>
@@ -58,16 +54,25 @@
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
 
-퇴사자 예측 신경망 모델을 만든 프로젝트입니다.
+<details>
+  <summary>퇴사자 예측 신경망 모델 제작 프로젝트</summary>  
+  
+  **활용 데이터**  
+  
+  **<세종시 출퇴근 인구>**  
+  - Kaggle의 IBM데이터  
 
-**활용 데이터**  
-Kaggle의 IBM 데이터
+  **사용 기술**: Python, TensorFlow, Numpy, Shap  
 
-**성과 지표**  
-훈련 정확도 : 99.49 %  
-테스트 정확도 : 98.64 %
-
-**사용한 기술**: Python, TensorFlow, Numpy, Shap
+  **모델 성능**  
+  훈련 정확도 : 99.49 %  
+  AUC-ROC : 0.9961  
+  훈련 Loss : 0.1374  
+  테스트 정확도 : 98.64 %  
+  F1-Score : 0.9864  
+  테스트 Loss : 0.1727  
+  
+</details>
 
 
 ### 3. [헬스 자세 보조 딥러닝 모델](링크)
