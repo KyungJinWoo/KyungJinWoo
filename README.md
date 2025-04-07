@@ -109,7 +109,7 @@
 </details>
 
 ### 4. [마케팅 프로젝트]
-<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+<a href="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EC%B5%9C%EC%A2%85_%EB%A7%88%EC%BC%80%ED%8C%85.pdf">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>
 </a>
 
