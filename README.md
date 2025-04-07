@@ -172,7 +172,7 @@
 
 
 ### 5. [데이콘 대회]
-<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+<a href="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EC%82%B0%ED%83%80_%EA%B2%BD%EB%A1%9C_%EC%B5%9C%EC%A0%81%ED%99%94PDF.pdf">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B2%BD%EB%A1%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>
 </a>
 
