@@ -54,7 +54,7 @@
 
 
 ### 2. [퇴사자 예측 신경망 모델]
-<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+<a href="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1%20%ED%9B%84%20%EC%B5%9C%EC%A2%85_%ED%87%B4%EC%82%AC%EC%9E%90%EC%98%88%EC%B8%A1.pdf">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%8D%B8%EB%84%A4%EC%9D%BC(%ED%87%B4%EC%82%AC%20%EC%97%90%EC%B8%A1).png" width="300"/>
 </a>
 
