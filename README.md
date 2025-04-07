@@ -85,7 +85,7 @@
 
 
 ### 3. [헬스 자세 보조 딥러닝 모델]
-<a href="https://www.notion.so/16089c8bb0e38143829df0b80c7f5720">
+<a href="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%ED%8C%8C%EC%9D%B4%EB%84%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%B5%9C%EC%A2%85.pdf">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%ED%99%88%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D%20%EC%9E%90%EC%84%B8%20%ED%8F%89%EA%B0%80%20%EB%AA%A8%EB%8D%B8.png" width="300"/>
 </a>
 
