@@ -22,9 +22,12 @@
 
 ## 📝 프로젝트
 ( 이미지 클릭시 발표 자료를 열람할 수 있습니다. )  
+
+
 **포트폴리오**  
 <a href="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EA%B2%BD%EC%A7%84%EC%9A%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">
-
+  <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>  
+  
 ### 1. [세종시 빅데이터 공모전]
 <a href="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%B5%9C%EC%A2%85.pdf">
   <img src="https://github.com/KyungJinWoo/KyungJinWoo/blob/main/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="300"/>
